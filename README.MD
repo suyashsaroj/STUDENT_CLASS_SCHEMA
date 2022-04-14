@@ -21,6 +21,14 @@ Before starting the server run below command to run onetime scripts
 node one-time-database-connection.js
 ```
 
+## Start the node server using below command
+
+```
+nodemon 
+or 
+node index.js
+```
+
 ### Please Note:
 
 ```
