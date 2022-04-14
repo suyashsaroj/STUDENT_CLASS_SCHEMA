@@ -14,7 +14,7 @@ brew services start mysql@5.7
 mysql_secure_installation
 ```
 
-## Install mysql if not installed
+## Create Database and tables
 
 ```
 Before starting the server run below command to run onetime scripts
